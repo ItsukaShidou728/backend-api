@@ -1,0 +1,26 @@
+{
+  "name": "Global-Backend",
+  "version": "1.0.0",
+  "description": "Express app with ESM module support",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "YusupKakuu",
+  "license": "MIT",
+  "dependencies": {
+    "@fongsidev/scraper": "*",
+    "anime-wallpaper": "*",
+    "api-dylux": "*",
+    "axios": "*",
+    "btch-downloader": "*",
+    "express": "5.1.0",
+    "sharp": "0.34.2",
+    "morgan": "^1.10.0",
+    "node-fetch": "3.3.2",
+    "form-data": "*",
+    "yt-search": "*"
+  }
+}
